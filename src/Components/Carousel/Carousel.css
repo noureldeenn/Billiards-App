@@ -1,0 +1,50 @@
+.carousel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+  margin-top: 50px;
+  z-index: 1;
+}
+
+.carousel-arrow {
+  cursor: pointer;
+  font-size: 48px;
+  color: #fff;
+}
+
+.participant {
+  text-align: center;
+  color: #fff;
+}
+
+.outer-circle {
+  width: 100px;
+  height: 100px;
+  background-color: #1a5527;
+  border: 1px solid #a57a44;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inner-circle {
+  width: 90px;
+  height: 90px;
+  background-color: #ffffff;
+  border-radius: 50%;
+}
+
+.participant-name {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #fff;
+}
+
+.carousel-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 100px;
+}

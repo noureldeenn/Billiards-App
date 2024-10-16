@@ -1,0 +1,39 @@
+<svg width="1086.000000" height="1447.000000" viewBox="0 0 1086 1447" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_1_584_dd" x="139.584839" y="31.366699" width="1144.796265" height="1274.362793" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="4"/>
+			<feGaussianBlur stdDeviation="1.33333"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+	</defs>
+	<mask id="mask1_582" mask-type="alpha" maskUnits="userSpaceOnUse" x="0.000000" y="0.000000" width="1086.000000" height="1447.000000">
+		<g style="mix-blend-mode:normal">
+			<rect id="Rectangle 74" width="1086.000000" height="1447.000000" fill="#FFFFFF" fill-opacity="1.000000"/>
+			<rect id="Rectangle 74" x="0.500000" y="0.500000" width="1085.000000" height="1446.000000" stroke="#707070" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		</g>
+	</mask>
+	<g mask="url(#mask1_582)">
+		<g style="mix-blend-mode:normal">
+			<path id="Path 27" d="M679.89 125.75L591.03 181.27C583.6 185.92 583.98 196.86 591.72 200.98L684.23 250.17C691.97 254.28 701.26 248.48 700.95 239.72L697.3 135C696.99 126.25 687.32 121.11 679.89 125.75Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+			<path id="Path 27" d="M591.03 181.27C583.6 185.92 583.98 196.86 591.72 200.98L684.23 250.17C691.97 254.28 701.26 248.48 700.95 239.72L697.3 135C696.99 126.25 687.32 121.11 679.89 125.75L591.03 181.27Z" stroke="#BF9447" stroke-opacity="1.000000" stroke-width="10.000000"/>
+		</g>
+		<g style="mix-blend-mode:normal">
+			<path id="Path 28" d="M350.77 1049.46L298.38 958.71C294 951.13 283.05 951.13 278.67 958.71L226.28 1049.46C221.9 1057.05 227.37 1066.53 236.13 1066.53L340.91 1066.53C349.67 1066.53 355.15 1057.05 350.77 1049.46Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+			<path id="Path 28" d="M298.38 958.71C294 951.13 283.05 951.13 278.67 958.71L226.28 1049.46C221.9 1057.05 227.37 1066.53 236.13 1066.53L340.91 1066.53C349.67 1066.53 355.15 1057.05 350.77 1049.46L298.38 958.71Z" stroke="#BF9447" stroke-opacity="1.000000" stroke-width="10.000000"/>
+		</g>
+	</g>
+	<g mask="url(#mask1_582)">
+		<g filter="url(#filter_1_584_dd)" style="mix-blend-mode:normal">
+			<path id="Photo Triangle" d="M1087.53 52.54L202.95 584.05C128.98 628.49 130.86 736.35 206.34 778.18L1108.93 1278.5C1184.4 1320.34 1276.87 1264.78 1275.36 1178.5L1257.35 146.67C1255.85 60.39 1161.5 8.09 1087.53 52.54Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+			<path id="Photo Triangle" d="M202.95 584.05C128.98 628.49 130.86 736.35 206.34 778.18L1108.93 1278.5C1184.4 1320.34 1276.87 1264.78 1275.36 1178.5L1257.35 146.67C1255.85 60.39 1161.5 8.09 1087.53 52.54L202.95 584.05Z" stroke="#BF9447" stroke-opacity="1.000000" stroke-width="10.000000"/>
+		</g>
+	</g>
+</svg>

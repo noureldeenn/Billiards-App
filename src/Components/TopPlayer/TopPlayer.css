@@ -1,0 +1,56 @@
+.player-container {
+  display: flex;
+  padding-inline: 100px;
+  align-items: flex-end;
+  flex-direction: column;
+  margin-block: 50px;
+}
+.player-container h1 {
+  margin-bottom: 60px;
+  color: white;
+  font-size: 22px;
+  font-weight: 400;
+  padding: 0;
+}
+.player-card-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.player-card {
+  width: 270px;
+  border: 1px solid #fff;
+  background-color: #fff;
+  border-radius: 20px;
+  text-align: center;
+  color: #1a5527;
+}
+
+.player-card .TopPlayer {
+  width: 100%;
+  height: auto;
+}
+
+.player-card .player-info {
+  padding: 15px;
+}
+
+.player-card .player-info .name {
+  font-size: 18px;
+  color: #0a1e0f;
+  font-weight: 500;
+}
+
+.player-card .stats {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 15px;
+}
+
+.stats-text {
+  font-size: 14px;
+  color: #d4af37;
+  font-weight: 300;
+  padding: 0;
+  margin: 0;
+}

@@ -1,0 +1,19 @@
+.gallery {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+.gallery .title {
+  position: absolute;
+  left: 100px;
+  top: 200px;
+  color: white;
+  font-size: 19px;
+  font-weight: 600;
+  padding: 0;
+}
+
+.Mask {
+  width: 1000px;
+}
+
